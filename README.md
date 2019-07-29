@@ -1,6 +1,6 @@
 # 15MinutesOfData
 There is a need for being more aware and more confident working & communicating DATA stuff in the Academic Libraries. 
-We (Librarians) need to become comfortable working with and understanding DATA - small, big, known - a way to do this could be to plan in-house training sessions, tailored the needs we face locally in our own organizations. What better way to do this than to teach each other and share the knowledge we all (alreadyy) know.
+We (Librarians) need to become comfortable working with and understanding DATA - small, big, known - a way to do this could be to plan in-house training sessions, tailored the needs we face locally in our own organizations. What better way to do this than to teach each other and share the knowledge we all (already) know.
 
 The idea was fostered by two colleagues (Moa Hedbrandt and Jonas Petersson) from Uppsala University Library, that I was happy to meet in January 2018, when I was hired to teach and inspire a group of Librarians for ONE DAY of "DST4L" training (https://github.com/JeannetteE/UppsalaWorkshop). 
 Afterwards they transferred the knowledge & teaching into something they could do and share locally, and I was lucky to hear about their concept - "15 minutes of Data" - that really inspired me.
