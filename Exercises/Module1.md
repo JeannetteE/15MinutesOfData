@@ -1,4 +1,4 @@
-#### **Module 1** 
+#### **Module 1**
 
 First session will introduce a Tool for beginners.
 
