@@ -4,12 +4,15 @@
 ## First thing; <br>
 Download OpenRefine to your PC - follow the steps from [OpenRefine.org](http://openrefine.org/download.html)
 <p>
-1. Open ”OpenRefine”
-1. Import your *.csv file from [last session](../Module2.md)
-<p>
-# Click NEXT
+  
+1. Open ”OpenRefine” <br>
+1. Import your *.csv file from [last session](https://github.com/JeannetteE/15MinutesOfData/blob/master/Exercises/Module2.md)
 
-Select:
+<p>
+  
+Click NEXT
+
+## Select:
 1. CSV/TSV/separator-based files; choose CSV ( comma)
 1. & UTF-8 ( as character encoding )
 

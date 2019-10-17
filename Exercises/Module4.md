@@ -10,7 +10,8 @@ We have now been "quickly through" some Data Science methods - by use of our own
 - can create simple bibliometric/network visualizations in VosViewer <p>
 
 
-* Data from Web of Science to VosViewer - make sure to select Core Collection, and "Save to Other File Format" and choose Tab-Delimited File Format. Finally choose the Full Record inkl Cited References option.
+# Data from Web of Science to VosViewer
+- make sure to select Core Collection, and "Save to Other File Format" and choose Tab-Delimited File Format. Finally choose the Full Record inkl Cited References option.
 
 * Data from Scopus to VosViewer - make sure you export data as ".csv" and that all data elements are included. I normally leave out Funding details & other information, but I of course *Include Reference*
 
