@@ -5,7 +5,7 @@
 Download OpenRefine to your PC - follow the steps from [OpenRefine.org](http://openrefine.org/download.html)
 <p>
 1. Open ”OpenRefine”
-1. Import your *.csv file from [last session](../Module2.md)
+1. Import your *.csv file from [last session](Module2.md)
 <p>
 # Click NEXT
 
