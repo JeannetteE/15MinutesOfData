@@ -12,4 +12,11 @@ We have now been "quickly through" some Data Science methods - by use of our own
 
 * Data from Web of Science to VosViewer - make sure to select Core Collection, and "Save to Other File Format" and choose Tab-Delimited File Format. Finally choose the Full Record inkl Cited References option.
 
-* Data from Scopus to VosViewer - make sure you export data as ".csv" and that all data elements are included. I normally leave out Funding details & other information, but I of course *Include Reference* 
+* Data from Scopus to VosViewer - make sure you export data as ".csv" and that all data elements are included. I normally leave out Funding details & other information, but I of course *Include Reference*
+
+
+## Supplementary materials:
+
+1. [The official VosViewer Manual ](https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.13.pdf)
+
+2. [A Tutorial for VosViewer by Clement Levallois](https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf)
