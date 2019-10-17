@@ -1,3 +1,5 @@
+#### **Module 4**
+
 We have now been "quickly through" some Data Science methods - by use of our own licensed materials (metadata from Scopus) to cleaning it via the open science tool called OpenRefine.
 
 # this exercise and introduction is all about Visualising and understanding our dataset"
@@ -21,3 +23,5 @@ We have now been "quickly through" some Data Science methods - by use of our own
 1. [The official VosViewer Manual ](https://www.vosviewer.com/documentation/Manual_VOSviewer_1.6.13.pdf)
 
 2. [A Tutorial for VosViewer by Clement Levallois](https://seinecle.github.io/vosviewer-tutorials/generated-pdf/importing-en.pdf)
+
+CC By [jeek@dtu.dk](mailto:jeek@tu.dk)

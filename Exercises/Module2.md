@@ -1,3 +1,4 @@
+#### **Module 2**
 
 *a CASE - 15 minutes of hands-on*
 
@@ -19,3 +20,5 @@
 - Save the search in your profile for later
 
 # finally you can use your *.csv file for a short visualisation via [ScienceScape](http://medialab.github.io/sciencescape/)
+
+CC By [jeek@dtu.dk](mailto:jeek@tu.dk) 
